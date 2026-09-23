@@ -1,0 +1,6 @@
+{
+  "name": "Ntlokgolo Rentals",
+  "description": "Automated Botswana house rentals and property management marketplace connecting landlords and verified tenants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
